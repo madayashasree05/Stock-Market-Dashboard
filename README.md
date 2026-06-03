@@ -126,13 +126,3 @@ Displays historical stock data including:
 
 ---
 
-## 👩‍💻 Author
-
-Yashasree Mada
-
----
-
-## ⭐ GitHub
-
-If you like this project, give it a star ⭐ on GitHub.
-
