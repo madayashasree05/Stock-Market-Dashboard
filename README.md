@@ -109,16 +109,12 @@ Displays historical stock data including:
 ![Dashboard](dashboard.png.jpeg)
 
 ### Stock Analysis
-![stock data table]
-(stock%20data%20table.png.jpeg)
+![stock data table](stock%20data%20table.png.jpeg)
 
 ### Moving Average Analysis
-![moving average 1]
-(moving%20data%20table.png.jpeg)
-![moving average 2]
-(moving%20average.png%20(2).jpeg)
-![moving average 3]
-(moving%20average.png%20(3).jpeg)
+![moving average 1](moving%20data%20table.png.jpeg)
+![moving average 2](moving%20average.png%20(2).jpeg)
+![moving average 3](moving%20average.png%20(3).jpeg)
 
 ### Interactive Chart
 ![Interactive Chart](interactive.png.jpeg)
