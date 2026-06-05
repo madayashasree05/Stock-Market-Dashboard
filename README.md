@@ -106,7 +106,7 @@ Displays historical stock data including:
 ## 📷 Screenshots
 
 ### Dashboard Home
-![Dashboard](screenshots/dashboard.png.jpeg)
+![Dashboard](dashboard.png.jpeg)
 
 ### Stock Analysis
 (Add Screenshot Here)
