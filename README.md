@@ -112,7 +112,7 @@ Displays historical stock data including:
 ![stock data table](stock%20data%20table.png.jpeg)
 
 ### Moving Average Analysis
-![moving average 1 ](moving%20data%20table.png%20(1).jpeg)
+![moving average 1 ](moving%20average.png.jpeg)
 
 ![moving average 2](moving%20average.png%20(2).jpeg)
 
