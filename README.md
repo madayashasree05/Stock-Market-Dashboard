@@ -113,7 +113,9 @@ Displays historical stock data including:
 
 ### Moving Average Analysis
 ![moving average 1](moving%20data%20table.png.jpeg)
+
 ![moving average 2](moving%20average.png%20(2).jpeg)
+
 ![moving average 3](moving%20average.png%20(3).jpeg)
 
 ### Interactive Chart
