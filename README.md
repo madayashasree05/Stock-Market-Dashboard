@@ -132,4 +132,29 @@ Displays historical stock data including:
 - Dark Mode
 
 ---
+## 👨‍💻 Author
 
+**Yashasree Mada**
+
+Aspiring Software Developer passionate about Python, Data Analytics, Machine Learning, and Web Applications.
+
+GitHub Profile:
+https://github.com/madayashasree05
+
+---
+
+## 🤝 Support
+
+If you like this project:
+
+⭐ Star this repository
+
+🍴 Fork this repository
+
+📢 Share it with others
+
+🐛 Report bugs through Issues
+
+💡 Suggest improvements and new features
+
+Your support helps improve the project and encourages further development.
