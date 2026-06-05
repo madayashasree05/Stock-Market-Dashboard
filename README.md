@@ -1,4 +1,4 @@
-.### 📈 Stock Market Dashboard
+### 📈 Stock Market Dashboard
 
 A Stock Market Dashboard built using Python, Streamlit, Yahoo Finance API, Pandas, and Plotly. This project allows users to view stock market data, analyze trends, calculate moving averages, and download stock data as CSV files.
 
